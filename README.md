@@ -20,7 +20,8 @@
 
 通用 API 入口可扩展到本机有许可的 COMSOL 接口；“覆盖类别”不等于穷尽或验证全部模型组合。官方案例配方调用用户安装的 Application Library，不随包复制商业模型。每个条目都标注验证状态。COMSOL、模块许可证、Python 运行环境均需用户自行具备。
 
-![原创三维散热器的 COMSOL 温度结果](examples/validation/temperature_3d.png)
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/dc027437-7fd7-40d2-9746-befd33b9aa62" />
+
 
 ## 快速开始
 
